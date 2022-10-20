@@ -1,0 +1,15 @@
+C:\Users\setsudog\source\repos\lb5shilC\lb5shilC\obj\Debug\net6.0\lb5shilC.csproj.AssemblyReference.cache
+C:\Users\setsudog\source\repos\lb5shilC\lb5shilC\obj\Debug\net6.0\lb5shilC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\setsudog\source\repos\lb5shilC\lb5shilC\obj\Debug\net6.0\lb5shilC.AssemblyInfoInputs.cache
+C:\Users\setsudog\source\repos\lb5shilC\lb5shilC\obj\Debug\net6.0\lb5shilC.AssemblyInfo.cs
+C:\Users\setsudog\source\repos\lb5shilC\lb5shilC\obj\Debug\net6.0\lb5shilC.csproj.CoreCompileInputs.cache
+C:\Users\setsudog\source\repos\lb5shilC\lb5shilC\bin\Debug\net6.0\lb5shilC.exe
+C:\Users\setsudog\source\repos\lb5shilC\lb5shilC\bin\Debug\net6.0\lb5shilC.deps.json
+C:\Users\setsudog\source\repos\lb5shilC\lb5shilC\bin\Debug\net6.0\lb5shilC.runtimeconfig.json
+C:\Users\setsudog\source\repos\lb5shilC\lb5shilC\bin\Debug\net6.0\lb5shilC.dll
+C:\Users\setsudog\source\repos\lb5shilC\lb5shilC\bin\Debug\net6.0\lb5shilC.pdb
+C:\Users\setsudog\source\repos\lb5shilC\lb5shilC\obj\Debug\net6.0\lb5shilC.dll
+C:\Users\setsudog\source\repos\lb5shilC\lb5shilC\obj\Debug\net6.0\refint\lb5shilC.dll
+C:\Users\setsudog\source\repos\lb5shilC\lb5shilC\obj\Debug\net6.0\lb5shilC.pdb
+C:\Users\setsudog\source\repos\lb5shilC\lb5shilC\obj\Debug\net6.0\lb5shilC.genruntimeconfig.cache
+C:\Users\setsudog\source\repos\lb5shilC\lb5shilC\obj\Debug\net6.0\ref\lb5shilC.dll
